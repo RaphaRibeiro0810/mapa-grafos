@@ -1,2 +1,2 @@
 # mapa-grafos
-Feito em linguagem Python no terceiro semestre do curso, 2023
+Feito em linguagem Python no terceiro semestre do curso, 2023. O projeto teve como objetivo, a partir de um mapa de conexões, representado através de uma estrutura em grafo, estabelecer um conjunto de rotas entre dois pontos, respeitando-se os critérios parametrizados que são estabelecidos pelo usuário. Assim, o usuário deve definir o ponto de início e o ponto de fim da trajetória, e os parâmetros que deverão ser utilizados para a escolha das rotas. O sistema deve informar as possíveis rotas e apontar a melhor, que atenda aos requisitos previamente definidos.
